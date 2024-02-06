@@ -1,1 +1,1 @@
-# picture-processing
+# 基于mediapipe手势识别
